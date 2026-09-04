@@ -49,15 +49,6 @@ A control tower that detects and prioritizes payment-processing incidents in rea
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/juanignaciopenazzi/juanignaciopenazzi/output/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/juanignaciopenazzi/juanignaciopenazzi/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-
 📫 **Let's connect**
 
 <a href="https://linkedin.com/in/juanignaciopenazzi">
